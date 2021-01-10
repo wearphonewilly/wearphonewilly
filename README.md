@@ -1,5 +1,10 @@
-### Hi there, I'm Willy 💻 👋
+# Hi there, I'm Willy 💻 👋
 
+## Social Network
+
+- 📸  <a href="https://instagram.com/iwilly_cf"></a>
+- 🐦  <a href="https://twitter.com/iwilly_cf"></a>
+- 🏃‍♂️ <a href="https://www.strava.com/athletes/25948960"></a>
 <!--
 **wearphonewilly/wearphonewilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
