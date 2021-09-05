@@ -2,9 +2,6 @@
 
 ## Social Network
 
-- <a href="https://www.strava.com/athletes/25948960">🏃‍♂️Strava</a>
-
-  ##
  
 <div> 
 
